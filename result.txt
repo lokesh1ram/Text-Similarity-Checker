@@ -1,0 +1,2 @@
+Similarity: 63.245553203367585%
+Matched Words: [artificial, systems, learn, machine, learning, intelligence]
